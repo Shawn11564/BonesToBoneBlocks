@@ -1,0 +1,8 @@
+name: BonesToBoneBlocks
+version: '${project.version}'
+main: dev.mrshawn.bonestoboneblocks.BonesToBoneBlocks
+api-version: 1.19
+prefix: BonesToBoneBlocks
+authors: [ MrShawn ]
+description: Convert bones directly into bone blocks
+website: https://mrshawn.dev/
